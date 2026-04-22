@@ -20,8 +20,7 @@ The architecture includes:
 
 ## 🏗️ Architecture Diagram
 
-![Architecture](Architecture.png)
-
+![Architecture](architecture.png)
 ---
 
 ## ⚙️ Services Used
